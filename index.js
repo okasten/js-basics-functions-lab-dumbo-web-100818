@@ -22,4 +22,7 @@ function calculatesFarePrice(start, end) {
   else if (total > 2000 && total < 2500){
     return 25;
   }
+  else if (total > 2500){
+    
+  }
 }
