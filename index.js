@@ -20,6 +20,6 @@ function calculatesFarePrice(start, end) {
     return ((total-400) * .02);
   }
   else if (total > 2000 && total < 2500){
-    return 
+    return 25;
   }
 }
